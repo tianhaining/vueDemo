@@ -1,0 +1,223 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "contractLabelData": [{
+    "labelVal": "ID", "propVal": "id"
+  }, {
+    "labelVal":"合同号","propVal":"contractNo"
+  }, {
+    "labelVal":"合同类型","propVal":"contractTypeName"
+  }, {
+    "labelVal":"甲方","propVal":"partyANames"
+  }, {
+    "labelVal":"乙方","propVal":"partybName"
+  },{
+    "labelVal":"合同内容","propVal":"contractContent"
+  },{
+    "labelVal":"开始日期","propVal":"beginDate"
+  }, {
+    "labelVal":"结束日期","propVal":"endDate"
+  },{
+    "labelVal":"含税金额","propVal":"amount"
+  },{
+    "labelVal":"已回款金额","propVal":"payAmount"
+  },{
+    "labelVal":"未回款金额","propVal":"payAmount"
+  },{
+    "labelVal":"开票金额","propVal":"invoicedAmount"
+  },{
+    "labelVal":"未开票金额","propVal":"restAmount"
+  },{
+    "labelVal":"签订日期","propVal":"signDate"
+  },{
+    "labelVal":"状态","propVal":"contractStatusName"
+  },{
+    "labelVal":"币种","propVal":"currencyName"
+  },{
+    "labelVal":"乙方联系人","propVal":"partybContactFullName"
+  }],
+  "contractTableData": [{
+    "id": 0,
+    "contractNo": "SBT-W4A-BJ-201611-0108",
+    "contractTypeName": "单笔合同",
+    "partyANames": "北京暴风科技股份有限公司",
+    "partybName": "思博途",
+    "contractContent": "test",
+    "beginDate": "2016-11-22",
+    "endDate": "2016-11-23",
+    "amount": "100.00",
+    "payAmount": "0.00",
+    "payAmount": "100.00",
+    "invoicedAmount":  "0.00",
+    "restAmount": "100.00",
+    "signDate": "2016-11-22",
+    "contractStatusName": "审核通过",
+    "currencyName": "CNY",
+    "partybContactFullName": "田海宁"
+  },{
+    "id": 1,
+    "contractNo": "SBT-W4A-BJ-201611-0109",
+    "contractTypeName": "单笔合同",
+    "partyANames": "北京暴风科技股份有限公司",
+    "partybName": "思博途",
+    "contractContent": "test",
+    "beginDate": "2016-11-22",
+    "endDate": "2016-11-23",
+    "amount": "100.00",
+    "payAmount": "0.00",
+    "payAmount": "100.00",
+    "invoicedAmount":  "0.00",
+    "restAmount": "100.00",
+    "signDate": "2016-11-22",
+    "contractStatusName": "审核通过",
+    "currencyName": "CNY",
+    "partybContactFullName": "田海宁"
+  },{
+    "id": 2,
+    "contractNo": "SBT-W4A-BJ-201611-0110",
+    "contractTypeName": "单笔合同",
+    "partyANames": "北京暴风科技股份有限公司",
+    "partybName": "思博途",
+    "contractContent": "test",
+    "beginDate": "2016-11-22",
+    "endDate": "2016-11-23",
+    "amount": "100.00",
+    "payAmount": "0.00",
+    "payAmount": "100.00",
+    "invoicedAmount":  "0.00",
+    "restAmount": "100.00",
+    "signDate": "2016-11-22",
+    "contractStatusName": "审核通过",
+    "currencyName": "CNY",
+    "partybContactFullName": "田海宁"
+  },{
+    "id": 3,
+    "contractNo": "SBT-W4A-BJ-201611-0111",
+    "contractTypeName": "单笔合同",
+    "partyANames": "北京暴风科技股份有限公司",
+    "partybName": "思博途",
+    "contractContent": "test",
+    "beginDate": "2016-11-22",
+    "endDate": "2016-11-23",
+    "amount": "100.00",
+    "payAmount": "0.00",
+    "payAmount": "100.00",
+    "invoicedAmount":  "0.00",
+    "restAmount": "100.00",
+    "signDate": "2016-11-22",
+    "contractStatusName": "审核通过",
+    "currencyName": "CNY",
+    "partybContactFullName": "田海宁"
+  },{
+    "id": 4,
+    "contractNo": "SBT-W4A-BJ-201611-0108",
+    "contractTypeName": "单笔合同",
+    "partyANames": "北京暴风科技股份有限公司",
+    "partybName": "思博途",
+    "contractContent": "test",
+    "beginDate": "2016-11-22",
+    "endDate": "2016-11-23",
+    "amount": "100.00",
+    "payAmount": "0.00",
+    "payAmount": "100.00",
+    "invoicedAmount":  "0.00",
+    "restAmount": "100.00",
+    "signDate": "2016-11-22",
+    "contractStatusName": "审核通过",
+    "currencyName": "CNY",
+    "partybContactFullName": "田海宁"
+  },{
+    "id": 5,
+    "contractNo": "SBT-W4A-BJ-201611-0108",
+    "contractTypeName": "单笔合同",
+    "partyANames": "北京暴风科技股份有限公司",
+    "partybName": "思博途",
+    "contractContent": "test",
+    "beginDate": "2016-11-22",
+    "endDate": "2016-11-23",
+    "amount": "100.00",
+    "payAmount": "0.00",
+    "payAmount": "100.00",
+    "invoicedAmount":  "0.00",
+    "restAmount": "100.00",
+    "signDate": "2016-11-22",
+    "contractStatusName": "审核通过",
+    "currencyName": "CNY",
+    "partybContactFullName": "田海宁"
+  }, {
+    "id": 6,
+    "contractNo": "SBT-W4A-BJ-201611-0108",
+    "contractTypeName": "单笔合同",
+    "partyANames": "北京暴风科技股份有限公司",
+    "partybName": "思博途",
+    "contractContent": "test",
+    "beginDate": "2016-11-22",
+    "endDate": "2016-11-23",
+    "amount": "100.00",
+    "payAmount": "0.00",
+    "payAmount": "100.00",
+    "invoicedAmount":  "0.00",
+    "restAmount": "100.00",
+    "signDate": "2016-11-22",
+    "contractStatusName": "审核通过",
+    "currencyName": "CNY",
+    "partybContactFullName": "田海宁"
+  },{
+    "id": 7,
+    "contractNo": "SBT-W4A-BJ-201611-0108",
+    "contractTypeName": "单笔合同",
+    "partyANames": "北京暴风科技股份有限公司",
+    "partybName": "思博途",
+    "contractContent": "test",
+    "beginDate": "2016-11-22",
+    "endDate": "2016-11-23",
+    "amount": "100.00",
+    "payAmount": "0.00",
+    "payAmount": "100.00",
+    "invoicedAmount":  "0.00",
+    "restAmount": "100.00",
+    "signDate": "2016-11-22",
+    "contractStatusName": "审核通过",
+    "currencyName": "CNY",
+    "partybContactFullName": "田海宁"
+  },{
+    "id": 8,
+    "contractNo": "SBT-W4A-BJ-201611-0108",
+    "contractTypeName": "单笔合同",
+    "partyANames": "北京暴风科技股份有限公司",
+    "partybName": "思博途",
+    "contractContent": "test",
+    "beginDate": "2016-11-22",
+    "endDate": "2016-11-23",
+    "amount": "100.00",
+    "payAmount": "0.00",
+    "payAmount": "100.00",
+    "invoicedAmount":  "0.00",
+    "restAmount": "100.00",
+    "signDate": "2016-11-22",
+    "contractStatusName": "审核通过",
+    "currencyName": "CNY",
+    "partybContactFullName": "田海宁"
+  },{
+    "id": 9,
+    "contractNo": "SBT-W4A-BJ-201611-0108",
+    "contractTypeName": "单笔合同",
+    "partyANames": "北京暴风科技股份有限公司",
+    "partybName": "思博途",
+    "contractContent": "test",
+    "beginDate": "2016-11-22",
+    "endDate": "2016-11-23",
+    "amount": "100.00",
+    "payAmount": "0.00",
+    "payAmount": "100.00",
+    "invoicedAmount":  "0.00",
+    "restAmount": "100.00",
+    "signDate": "2016-11-22",
+    "contractStatusName": "审核通过",
+    "currencyName": "CNY",
+    "partybContactFullName": "田海宁"
+  }]
+}
